@@ -1,0 +1,12 @@
+CODE
+CMP1129M
+TITLE
+Web Applications Development
+SYNOPSIS
+This module provides students with the knowledge to design and develop client-server web technologies. Students will learn key concepts on constructing and deploying server side code, including database and application programmable interface (API) connectivity as well as industry standard communication protocols such as REST and SOAP.
+LO 
+LO1 understand the strengths and weaknesses of current web communication protocols
+LO2 design and implement a basic web service with database connectivity and client application
+LO3 apply appropriate RESTful design guidelines to web services to support maximum interoperability across a variety of platforms
+ASSIGNMENT	
+Assignment	21/04/2016

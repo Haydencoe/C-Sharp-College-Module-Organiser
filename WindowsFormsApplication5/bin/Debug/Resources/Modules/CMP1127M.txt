@@ -1,0 +1,14 @@
+CODE
+CMP1127M
+TITLE
+Programming and Data Structures
+SYNOPSIS
+This module introduces the concepts and practice of simple computer programming, with attention paid to the fundamentals that constitute a complete computer program including layout, structure and functionality. The module extends students' knowledge of computer programming and introduces them to fundamental computing data structures allowing the representation of data in computer programs.
+LO
+LO1 identify the properties of common data structures
+LO2 apply appropriate data structures in common programming solutions
+LO3 implement programs consisting of multiple procedures
+LO4 apply simple testing techniques to evaluate programs
+ASSIGNMENT
+Assignment	17/12/2015
+Assignment	21/04/2016

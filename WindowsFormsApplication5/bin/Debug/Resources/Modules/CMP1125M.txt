@@ -1,0 +1,15 @@
+CODE
+CMP1125M
+TITLE
+Computer Architectures
+SYNOPSIS
+This module introduces the fundamentals of computer hardware underpinning the key aspects of Computer Science. This knowledge is not only essential for deeper understanding of the governing processes behind computing but also for realising how hardware interacts with software.
+LO 
+LO1 demonstrate an understanding of fundamentals underpinning modern computer architectures.
+LO2 review and compare different models and processes used in modern computer architectures.
+LO3 communicate rational and reasoned arguments in writing
+LO4 locate and reference relevant information
+ASSIGNMENT	
+In-Class Test	w/c 07/03/2016
+Assignment	17/03/2016
+In-Class Test	w/c 25/04/2016

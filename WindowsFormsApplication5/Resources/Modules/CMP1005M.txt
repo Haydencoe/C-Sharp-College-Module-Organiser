@@ -1,0 +1,15 @@
+CODE
+CMP1005M
+TITLE
+Operating Systems
+SYNOPSIS
+This module studies both the theoretical design concepts which underpin all operating systems and, through case-studies, the practical implementation techniques of current operating systems. Special attention will be given to shell programming languages and examples to practically implement concepts and techniques at the basis of the various operating systems.
+LO
+LO1 Outline and discuss mechanics and strategies within operating system architectures
+LO2 Review models and processes in operating systems architectures
+LO3 Use a range of tools to interact with operating systems from the Windows and the UNIX families.
+ASSIGNMENT
+In-Class Test	w/c 22/02/2016
+In-Class Test	w/c 25/04/2016
+
+

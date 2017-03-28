@@ -1,0 +1,68 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1005M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1123M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1124M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1125M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1127M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1129M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\College modules.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\College modules.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\College modules.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\College Modules.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\College Modules.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\College modules.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\College modules.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1005M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1123M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1124M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1125M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1127M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1129M.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\College modules.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\College modules.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\bin\Debug\College modules.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\College Modules.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\collegeModules.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\collegeModules.Form2.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\collegeModules.UserControl1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\College Modules.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\College modules.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\collegeModules\WindowsFormsApplication5\obj\Debug\College modules.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\collegeModules.homePage.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\collegeModules.assignmentNotes.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\collegeModules.moduleTab.resources
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\College modules.exe.config
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\College modules.exe
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\College modules.pdb
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1005M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1123M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1124M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1125M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1127M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1129M.txt
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\College modules.exe
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\bin\Debug\College modules.pdb
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\College Modules.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.homePage.resources
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.assignmentNotes.resources
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.moduleTab.resources
+\\Mac\Home\Desktop\Finished\College Modules\WindowsFormsApplication5\obj\Debug\College Modules.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\College modules.exe.config
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\College modules.exe
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\College modules.pdb
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1005M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1123M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1124M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1125M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1127M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\Resources\Modules\CMP1129M.txt
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\College modules.exe
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\bin\Debug\College modules.pdb
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\College Modules.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.homePage.resources
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.assignmentNotes.resources
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\collegeModules.moduleTab.resources
+\\Mac\Home\Desktop\College Modules\WindowsFormsApplication5\obj\Debug\College Modules.csproj.GenerateResource.Cache

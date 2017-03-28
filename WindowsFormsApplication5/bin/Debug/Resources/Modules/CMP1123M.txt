@@ -1,0 +1,11 @@
+CODE
+CMP1123M
+TITLE
+Information Systems in Practice
+SYNOPSIS
+This module explores the manifestation of Information Systems (IS) in practical situations. It develops an understanding about the structure and scope of IS and explores the shared characteristics which make up IS in practice.
+LO 
+LO1 Explain the role and action of an Information System in facilitating functional operations
+LO2 Describe approaches which deliver compliance to the ethical, legal, moral and security constraints placed upon Information Systems
+ASSIGNMENT	
+Assignment	28/04/2016

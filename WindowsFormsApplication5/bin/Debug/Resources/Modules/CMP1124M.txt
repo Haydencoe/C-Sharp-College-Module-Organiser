@@ -1,0 +1,13 @@
+CODE
+CMP1124M
+TITLE
+Algorithms and Complexity
+SYNOPSIS
+The module introduces the concepts of Algorithms and Complexity, providing an understanding of the range of applications where algorithmic solutions are required. Students will be introduced to the analysis of time and space efficiency of algorithms; to the key issues in algorithm design; to the range of techniques used in the design of various types of algorithms. Students will be introduced to relevant theoretical concepts around algorithms and complexity in the lectures, together with a practical experience of implementing a range of algorithms in the workshops.
+LO
+LO1 understand the time and space efficiency of algorithms and how to calculate/estimate/evaluate and improve them
+LO2 determine an appropriate algorithmic approach to a problem
+LO3 demonstrate the ability to select from a range of possible options, to provide justification for that selection, and to implement algorithms in a particular context.
+ASSIGNMENT
+In-Class Test	w/c 07/03/16
+Assignment	21/04/2016

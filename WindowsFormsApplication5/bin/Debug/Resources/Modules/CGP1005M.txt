@@ -1,0 +1,12 @@
+CODE
+CGP1005M
+TITLE
+Game Design 1
+SYNOPSIS
+This module explores games as products of a design process, centred on how the mechanics of a game shape the experience of the players. There is a strong focus on practical work and experimentation, to get a first-hand understanding of how the components of a game work together and the effects of various changes in context.
+LO 
+LO1 Recognise the relationship between game mechanics and gameplay experience
+LO2 Analyse the architecture, design and underlying patterns of games
+LO3 Design and implement a paper prototype that demonstrates game design processes
+ASSIGNMENT	
+Assignment	28/04/2016
